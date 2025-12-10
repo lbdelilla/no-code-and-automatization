@@ -1,0 +1,7 @@
+# Ignore everything
+*
+
+# But track the 0-Intro folder and all its contents
+!0-Intro/
+!0-Intro/**
+!.gitignore
