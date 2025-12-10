@@ -2,7 +2,7 @@
 
 Picture this: all those boring, repetitive tasks that eat up your day? *Gone.* Workflows that run themselves like magic? *Check.* Building powerful automation systems without touching a single line of code? *Absolutely possible.*
 
-Welcome to the most exciting journey you'll take this year—into the world of no-code automation! This is where your creativity takes the wheel and technology does the heavy lifting. And guess what? You don't need to be a tech wizard to make it happen. If you can drag, drop, and dream big, you're ready! 🚀
+Welcome to the most exciting journey you'll take this year—into the world of **no-code automation**! This is where your creativity takes the wheel and technology does the heavy lifting. And guess what? You don't need to be a tech wizard to make it happen. If you can drag, drop, and dream big, you're ready! 🚀
 
 ## Why We Created This Course
 
@@ -18,7 +18,7 @@ First, you'll learn to see workflows everywhere (it's kind of like gaining a sup
 
 As you level up, you'll connect real-world data through APIs, add some AI magic to make things smart, create bulletproof systems with webhooks, and design automations that are so user-friendly, anyone could use them. 
 
-By the time you're done? You'll have a portfolio full of real projects and the confidence to automate literally anything.
+By the time you're done? You'll have a **portfolio full of real projects** and the confidence to automate literally anything.
 
 ## Your Learning Adventure
 
@@ -56,4 +56,4 @@ The future is automated, and your future starts *right now*. Every second you're
 
 This isn't just about learning a platform—it's about unlocking a completely new way of thinking, working, and problem-solving. It's about taking control of your time and making technology work *for you*.
 
-Ready to turn your ideas into automated magic? Your automation adventure starts here, and trust us—it's going to be awesome! 🎉
+**Ready to turn your ideas into automated magic?** Your automation adventure starts here, and trust us—it's going to be awesome! 🎉
